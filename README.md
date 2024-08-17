@@ -17,9 +17,10 @@ I love animals, books and helping people.
 
 I found in programming a way to express my love for logic and computers, a unique way to create exclusive projects and use them for my own goals and in the future, for big companies!
 
-## 📚 Estudos atuais | Current Studies
-- Tecnólogo em Análise e Desenvolvimento de Sistemas - FATEC
-- [Bootcamp Santander - Back-end Java - DIO](https://web.dio.me/track/santander-bootcamp-2023-backend-java)
+## 📚 Estudos | Studies
+- Tecnólogo em Análise e Desenvolvimento de Sistemas - FATEC - em andamento;
+- [Bootcamp Santander - Back-end Java - DIO](https://web.dio.me/track/santander-bootcamp-2023-backend-java) - finalizado;
+- Udemy Java - em andamento;
 
 ## 💻 Skills
 
@@ -27,6 +28,8 @@ I found in programming a way to express my love for logic and computers, a uniqu
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - ![Java](https://img.shields.io/badge/JAVA-red?style=for-the-badge)
+- ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+- ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ## 📩 Conecte-se | Connect
 
