@@ -1,14 +1,6 @@
 # JULIANA GIROTTO LEITE
-## 👩 Sobre mim | About me
+## 👩 About me
 
-Apaixonada por programação.
-
-Sou engenheira civil e graduanda em Análise e Desenvolvimento de Sistemas, focando na transição de carreira para back-end developer.
-
-Amo animais, livros e ajudar as pessoas.
-
-Encontrei na programação uma forma de expressar meu amor pela lógica e pelos computadores, uma forma única de criar projetos exclusivos e utilizar para projetos próprios e futuramente para grandes empresas!
-#
 Programming lover.
 
 I'm a civil engineer and a graduating student in Systems Analysis and Development, focusing on the career transition to back-end developer.
@@ -18,9 +10,9 @@ I love animals, books and helping people.
 I found in programming a way to express my love for logic and computers, a unique way to create exclusive projects and use them for my own goals and in the future, for big companies!
 
 ## 📚 Estudos | Studies
-- Tecnólogo em Análise e Desenvolvimento de Sistemas - FATEC - em andamento;
-- [Bootcamp Santander - Back-end Java - DIO](https://web.dio.me/track/santander-bootcamp-2023-backend-java) - finalizado;
-- Udemy Java - em andamento;
+- Technologist in Systems Analysis and Development - FATEC - in progress;
+- [Bootcamp Santander - Back-end Java - DIO](https://web.dio.me/track/santander-bootcamp-2023-backend-java) - finished;
+- Udemy Java - in progress;
 
 ## 💻 Skills
 
@@ -31,7 +23,7 @@ I found in programming a way to express my love for logic and computers, a uniqu
 - ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 - ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-## 📩 Conecte-se | Connect
+## 📩 Connect
 
 - [![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:ads.jjgirotto@gmail.com)
 - [![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github)](https://github.com/jjgirotto)
