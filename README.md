@@ -16,23 +16,9 @@ I found in programming a way to express my love for logic and computers, a uniqu
 
 ## 💻 Skills
 
-<table>
-  <tr>
-    <td>
-      <ul>
-        <li>![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)</li>
-        <li>![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)</li>
-        <li>![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</li>
-        <li>![Java](https://img.shields.io/badge/JAVA-red?style=for-the-badge)</li>
-        <li>![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)</li>
-        <li>![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)</li>
-      </ul>
-    </td>
-    <td>
-      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjgirotto)](https://github.com/anuraghazra/github-readme-stats)
-    </td>
-  </tr>
-</table>
+| Skills | GitHub Stats |
+|--------|--------------|
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) <br> ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) <br> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) <br> ![Java](https://img.shields.io/badge/JAVA-red?style=for-the-badge) <br> ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) <br> ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjgirotto)](https://github.com/anuraghazra/github-readme-stats) |
 
 
 ## 📩 Connect
