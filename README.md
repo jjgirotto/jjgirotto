@@ -23,6 +23,8 @@ I found in programming a way to express my love for logic and computers, a uniqu
 - ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 - ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjgirotto)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 📩 Connect
 
 - [![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:ads.jjgirotto@gmail.com)
