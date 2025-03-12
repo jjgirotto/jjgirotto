@@ -12,7 +12,7 @@ I found in programming a way to express my love for logic and computers, a uniqu
 ## 📚 Estudos | Studies
 - Technologist in Systems Analysis and Development - FATEC - in progress;
 - [Bootcamp Santander - Back-end Java - DIO](https://web.dio.me/track/santander-bootcamp-2023-backend-java) - finished;
-- Udemy Java - in progress;
+- Udemy Java/Spring - finished;
 
 ## 💻 Skills
 
